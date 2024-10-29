@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic&display=swap);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
+
+html {
+  @apply overflow-x-hidden scroll-smooth;
+}
+
+body {
+  @apply overflow-x-hidden font-normal text-base bg-[#F2F2F6] text-black;
+}
+
+@layer components {
+  .container {
+    @apply max-w-[640px] w-full px-5 mx-auto;
+  }
+}

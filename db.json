@@ -1,0 +1,101 @@
+{
+   "brands": [
+    {
+        "id": "1",
+        "img": "apple.webp",
+        "title": "Apple",
+        "text": "Card Number Used",
+        "profit": "$14.06",
+        "percent": "3",
+        "status": "pending",
+        "date": "20.10.2024",
+        "user": "Diana"
+    },
+    {
+        "id": "2",
+        "img": "payment.png",
+        "title": "Payment",
+        "text": "From JPMorgan Chase Bank National",
+        "profit": "+$174.00",
+        "status": "success",
+        "date": "22.10.2024"
+    },
+    {
+        "id": "3",
+        "img": "apple.webp",
+        "title": "Apple",
+        "text": "Card Number Used",
+        "profit": "$99.71",
+        "status": "pending",
+        "date": "29.10.2024",
+        "user": "John"
+    },
+    {
+        "id": "4",
+        "img": "payment.png",
+        "title": "Payment",
+        "text": "From JPMorgan Chase Bank National",
+        "profit": "+$73.58",
+        "status": "success",
+        "date": "10.10.2024"
+    },
+    {
+        "id": "5",
+        "img": "ikea.png",
+        "title": "IKEA",
+        "text": "Round Rock, TX",
+        "profit": "$73.58",
+        "percent": "2",
+        "status": "success",
+        "date": "10.10.2024"
+    },
+    {
+        "id": "6",
+        "img": "target.png",
+        "title": "Target",
+        "text": "Cedar Dark, TX",
+        "profit": "$73.58",
+        "percent": "2",
+        "status": "success",
+        "date": "28.10.2024"
+    },
+    {
+        "id": "7",
+        "img": "ikea.png",
+        "title": "IKEA",
+        "text": "Round Rock, TX",
+        "profit": "$83.28",
+        "percent": "4",
+        "status": "pending",
+        "date": "27.10.2024",
+        "user": "Harry"
+    },
+    {
+        "id": "8",
+        "img": "target.png",
+        "title": "Target",
+        "text": "Cedar Dark, TX",
+        "profit": "$183.00",
+        "status": "success",
+        "date": "17.10.2024"
+    },
+    {
+        "id": "9",
+        "img": "apple.webp",
+        "title": "Apple",
+        "text": "Card Number Used",
+        "profit": "$14.06",
+        "status": "pending",
+        "date": "20.10.2024"
+    },
+    {
+        "id": "10",
+        "img": "target.png",
+        "title": "Target",
+        "text": "Card Number Used",
+        "profit": "$14.06",
+        "status": "success",
+        "date": "19.10.2024"
+    }
+   ] 
+}
